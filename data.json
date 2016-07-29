@@ -1,0 +1,32 @@
+{
+"records":25,
+"page":1,
+"total":2,
+"next":null,
+"previous":null,
+"rows":
+[
+	{
+ 	"id":1,
+	"vehiclegroup__name":"Truk Kering 20 feet",
+	"destination__name":"Kabupaten Karawang",
+	"departure__name":"Kabupaten Bandung",
+	"metric":"M3",
+	"start_date":"24-03-2016",
+	"end_date":"30-06-2016",
+	"price":"Rp. 1,500,000 - 1,700,000",
+	"loadcap__name":"Kosong"
+	},
+	{
+ 	"id":2,
+	"vehiclegroup__name":"Truk Kering 40 feet",
+	"destination__name":"Jakarta",
+	"departure__name":"Surabaya",
+	"metric":"M3",
+	"start_date":"14-03-2016",
+	"end_date":"10-06-2016",
+	"price":"Rp. 4,000,000 - 5,700,000",
+	"loadcap__name":"Kosong"
+	}
+]
+}
