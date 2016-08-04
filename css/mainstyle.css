@@ -1,0 +1,54 @@
+.banner{
+  display: -webkit-box;
+  background-image: url('http://www.larryssales.info/siteart/main_img.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width:100%;
+  min-height: 500px;
+  transition: 0.4s;
+}
+
+.banner-container{
+  width:80%;
+  margin: auto;
+}
+
+.banner-header{
+  position: relative;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  line-height: 110%;
+  font-size: 400%;
+  margin-top: 300px;
+}
+@media (max-width:768px) {
+  .banner-header{
+    margin-top: 200px;
+  }
+}
+
+.banner-header-2{
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  font-size: 200%;
+}
+
+.center-horizontal{
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%,0);
+}
+
+.table-list{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.list {
+  background-color: #fff;
+  box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.5);
+  margin-top: 50px;
+}
+.pager{
+  background-color: #0f0;
+}
